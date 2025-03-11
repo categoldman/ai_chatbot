@@ -1,1 +1,1 @@
-initial commit
+a simple chatbot to practice!
